@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>伊藤式ChatGPTマスター</title>
+    <link>https://kazu-07.github.io/ito-GPT/</link>
+    <language>ja-JP</language>
+    <itunes:author>かず</itunes:author>
+    <itunes:summary>伊藤式ChatGPTマスター</itunes:summary>
+    <description>伊藤式ChatGPTマスター</description>
+    <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    <itunes:category text="教育">
+      <itunes:category text="コース"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>00.まずはじめに</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_00%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB.mp3" length="18869430" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_00%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB.mp3</guid>
+      <pubDate>Thu, 05 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>786</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>01.今さら聞けないChatGPTの超キホン</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day1.mp3" length="17920164" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day1.mp3</guid>
+      <pubDate>Fri, 06 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>746</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>02.【永久保存版】ChatGPTの性能をあげる魔法プロンプト</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary>《魔法プロンプト》
+『時間制限は気にせず、完成度を最優先で考えてください』</itunes:summary>
+      <description>《魔法プロンプト》
+『時間制限は気にせず、完成度を最優先で考えてください』</description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day2.mp3" length="23842077" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day2.mp3</guid>
+      <pubDate>Sat, 07 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>993</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>03.【脱初心者】知ってると差がつくChatGPT活用のコツ</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day3.mp3" length="17944414" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day3.mp3</guid>
+      <pubDate>Sun, 08 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>747</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>04.ChatGPTガチ勢が毎日やっている習慣TOP3</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary>《TOP3》
+1.音声入力
+Aqua Voice：https://aquavoice.com/
+Typeless：https://www.typeless.com/
+
+2.図解
+3.課金している</itunes:summary>
+      <description>《TOP3》
+1.音声入力
+Aqua Voice：https://aquavoice.com/
+Typeless：https://www.typeless.com/
+
+2.図解
+3.課金している</description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day4.mp3" length="22227550" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day4.mp3</guid>
+      <pubDate>Mon, 09 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>926</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>05.生産性が爆上がりするChatGPT黄金テンプレート</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary>《黄金テンプレート》
+『あなたはプロンプトエンジニアの専門家です。
+私の目的・制約・想定読者・成果物の形式を明確化するために、必要最小限かつ本質的な質問を行い、その回答をもとに「最も効果的で再利用可能な最終プロンプト」を1つ作成してください。』</itunes:summary>
+      <description>《黄金テンプレート》
+『あなたはプロンプトエンジニアの専門家です。
+私の目的・制約・想定読者・成果物の形式を明確化するために、必要最小限かつ本質的な質問を行い、その回答をもとに「最も効果的で再利用可能な最終プロンプト」を1つ作成してください。』</description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day5.mp3" length="12866975" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day5.mp3</guid>
+      <pubDate>Tue, 10 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>536</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>06.【注意】絶対にやってはいけないChatGPTへの指示</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day6.mp3" length="11618764" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day6.mp3</guid>
+      <pubDate>Wed, 11 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>484</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+    <item>
+      <title>07.ゼロから一気にプロ級になる"ChatGPT高速習得法"</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary> </itunes:summary>
+      <description> </description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day7.mp3" length="17378783" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://media.githubusercontent.com/media/Kazu-07/ito-GPT/refs/heads/main/%E4%BC%8A%E8%97%A4%E3%81%95%E3%82%93_Day7.mp3</guid>
+      <pubDate>Thu, 12 Mar 2026 01:00:00 GMT</pubDate>
+      <itunes:duration>724</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KXZh2zkE2B81jwpF8o0FIjUo7DJO7BCae9PYQiXv.jpg" />
+    </item>
+
+  </channel>
+</rss>
